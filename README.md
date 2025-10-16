@@ -25,5 +25,3 @@ Archivos incluidos:
 - Texturas e imágenes (cancha2.jpg, pared*.png, cielo1.png, pasto.png)
 
 - Audio (Futbol.mp3)
-
-README y .gitignore
